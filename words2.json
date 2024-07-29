@@ -1,0 +1,18 @@
+{
+    "yeni-kelime1": {
+        "type": "isim",
+        "description": "Bu, yeni-kelime1 kelimesinin açıklamasıdır.",
+        "related": ["yeni-kelime2"]
+    },
+    "yeni-kelime2": {
+        "redirect": "yeni-kelime1"
+    },
+    "örnek-kelime1": {
+        "type": "sıfat",
+        "description": "Bu, örnek-kelime1 kelimesinin açıklamasıdır.",
+        "related": ["örnek-kelime2"]
+    },
+    "örnek-kelime2": {
+        "redirect": "örnek-kelime1"
+    }
+}
